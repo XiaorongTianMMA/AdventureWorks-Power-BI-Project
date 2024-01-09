@@ -5,3 +5,4 @@
 **Data Visualization and Reporting**: The information is presented through a series of charts and tables, highlighting Power BI's capabilities in visualizing and managing complex datasets.
 
 **Additional Insights and Breakdowns**: The project also details specific product information, analyzes sales by different channels like internet and reseller, and offers regional breakdowns to provide comprehensive insights into the sales trends and performance of the AdventureWorks company.
+![image](https://github.com/XiaorongTianMMA/AdventureWorks-Power-BI-Project/assets/147436445/e02f671b-63d0-45de-a3bc-25b3a50bdba6)
